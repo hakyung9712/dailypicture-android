@@ -3,7 +3,7 @@
 
 
 #### PlayStore 링크
-https://play.google.com/store/apps/details?id=org.techtown.dailypicture
+
 
 
 ### 기획의도
